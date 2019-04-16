@@ -226,7 +226,8 @@ a:hover, a:active, a:focus {
 }
 
 .navbar-default .navbar-brand {
-  color: #555;
+  color: #a6b1c5;
+	/* color:#555; */
   font-family: 'Merriweather', serif;
   font-weight: bold;
   text-transform: uppercase;
