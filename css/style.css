@@ -168,7 +168,7 @@ a:hover, a:active, a:focus {
   flex-flow: row nowrap;
   justify-content: center;
   align-items: center;
-  background: none repeat scroll 0 0 #a6b1c5;
+  background: none repeat scroll 0 0 #848d9d;
 }
 
 .sk-spinner-wordpress.sk-spinner {
@@ -183,7 +183,7 @@ a:hover, a:active, a:focus {
 
 .sk-spinner-wordpress .sk-inner-circle {
   display: block;
-  background-color: #a6b1c5;
+  background-color: #848d9d;
   width: 16px;
   height: 16px;
   position: absolute;
